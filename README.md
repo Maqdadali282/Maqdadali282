@@ -1,12 +1,12 @@
-👋 Hi, I’m @Maqdadali282
+👋 Hi, I’m Maqdad Ali
 
 👀 I’m deeply interested in programming, AI, and backend development
 
 🌱 I’m currently learning Artificial Intelligence and sharpening my skills in Python & Machine Learning
 
-💞️ I’m looking to collaborate on AI/ML projects, smart home systems, or any innovative tech ideas
+💞️ I’m looking to collaborate on AI/ML projects or any innovative tech ideas
 
-📫 How to reach me: maqdadali131@gmail.com.com
+📫 How to reach me: maqdadali131@gmail.com
 
 😄 Pronouns: He/Him
 
